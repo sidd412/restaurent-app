@@ -1,0 +1,23 @@
+#form{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; */
+    height: fit-content;
+    width: fit-content;
+    padding: 2px 4px;
+    justify-content: center;
+    align-items: center;
+}
+#el2 button{
+    padding: 2px 15px;
+    background-color: rgb(207, 120, 120);
+    border: none;
+    border-radius: 10px;
+}
+#count{
+   
+    padding: 0px 4px;
+    background-color: rgb(217, 224, 222);
+    box-shadow: grey 3px 3px 3px ;
+    border-radius: 3px;
+}
