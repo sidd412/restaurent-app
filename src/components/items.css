@@ -1,0 +1,11 @@
+#itemsList{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+#itemsListBox{
+    background-color: aliceblue; 
+    width: 75%; 
+    padding: 30px;
+    border-radius: 20px;
+}

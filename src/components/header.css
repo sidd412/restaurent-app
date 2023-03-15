@@ -14,6 +14,7 @@
 padding: 4px 10px;
 border-radius: 15px;
 background-color: rgb(118, 160, 155);
+cursor: pointer;
 }
 #num{
     background-color: rgb(182, 209, 209);
@@ -53,6 +54,8 @@ align-items: center;
     bottom: 100px;
     background-color: grey;
 }
+
+
 
 
 
