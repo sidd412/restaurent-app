@@ -4,7 +4,7 @@
     justify-content: space-around;
     align-items: center;
    /* border: 1px solid red; */
-   background-color: rgb(129, 97, 90);
+   background-color: grey;
 }
 #ele1{
 
@@ -15,12 +15,44 @@ padding: 4px 10px;
 border-radius: 15px;
 background-color: rgb(118, 160, 155);
 }
-#img{
-    height: 130px;
-    width: 100%;
-    opacity: 0.8;
-}
 #num{
     background-color: rgb(182, 209, 209);
     border-radius: 10px;
 }
+
+#body1{
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+}
+
+#img img{
+    height: 100%;
+    width: 100%;
+    opacity: .9; 
+    max-height: 260px;  
+}
+#img{
+
+}
+#summary{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+#para{
+    width: 50%;
+    padding: 5px 20px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 20px;
+    box-shadow: rgb(42, 40, 40) 3px 3px 3px 3px;
+    position: relative;
+    bottom: 100px;
+    background-color: grey;
+}
+
+
+
