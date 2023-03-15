@@ -1,0 +1,26 @@
+#head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+   /* border: 1px solid red; */
+   background-color: rgb(129, 97, 90);
+}
+#ele1{
+
+}
+#ele2{
+/* border: .5px solid black; */
+padding: 4px 10px;
+border-radius: 15px;
+background-color: rgb(118, 160, 155);
+}
+#img{
+    height: 130px;
+    width: 100%;
+    opacity: 0.8;
+}
+#num{
+    background-color: rgb(182, 209, 209);
+    border-radius: 10px;
+}
