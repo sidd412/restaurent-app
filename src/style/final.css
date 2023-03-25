@@ -1,0 +1,138 @@
+*{
+    box-sizing: border-box;
+}
+#bg{
+    background-color: rgb(34, 36, 36);
+    color: white;
+}
+#headCart{
+/* border: 4px solid rgb(244, 226, 26); */
+position: fixed;
+z-index: 10;
+width: 100%;
+margin-top: 0;
+background-color: rgb(34, 36, 36);
+}
+#head{
+    font-style: italic;
+/* border: 2px solid red; */
+display: flex;
+justify-content: space-around;
+height: 60px;
+align-items: center;
+color: rgb(4, 254, 154);
+background-color: rgb(34, 36, 36);
+}
+
+#body{
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+}
+#slider{
+    border-bottom: 1px solid grey;
+    max-height: 230px;
+    width: 100%;
+}
+#carousel img{
+    width:100%;         
+    max-height:228px;
+}
+#carousel{
+    font-style: italic;
+}
+
+#paraItems{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#items{
+    width: 70%;
+    margin: 20px ;
+    padding: 20px;
+    border-radius: 15px;
+    max-height: 300px;
+    overflow-y: scroll;
+    box-shadow: rgb(135, 110, 110) 3px 3px 3px 3px;
+    
+}
+  #boxes{
+    display: flex;
+    justify-content: space-between;
+  }
+  #box1{
+    color: rgb(222, 124, 124);
+  }
+#items::-webkit-scrollbar{
+    width: 0px;
+}
+#para{
+font-style: italic;
+color: rgb(222, 124, 124);
+width: 30%;
+margin: 20px;
+padding: 20px;
+border-radius: 15px;
+max-height: 300px;
+overflow-y: scroll;
+text-align: center;
+box-shadow: rgb(114, 105, 105) 3px 3px 3px 3px;
+}
+#para::-webkit-scrollbar{
+    width: 0px;
+}
+
+#cartBtn{
+
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(4, 254, 154);
+    border: .3px solid rgb(103, 159, 73);
+    padding: 5px 20px;
+    border-radius: 10px;
+    cursor:pointer;
+    background-color: black;
+    box-shadow: rgb(93, 87, 86) 1px 1px 1px 1px;
+}
+#cartBtn:hover{
+    zoom: 101%;
+    background-color: rgb(0, 255, 153);
+    color: black;
+    box-shadow: rgb(136, 102, 139) 1px 1px 1px 1px;
+}
+
+#nett{
+    padding: 0 5px;
+    border-radius: 7px;
+   box-shadow: rgb(245, 239, 238) 1px 1px 1px 1px;
+}
+
+
+#form input{
+    text-align: center;
+    width: 60px;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: black;
+    margin: 2px 3px;
+    color: rgb(4, 254, 154);
+    box-shadow: rgb(93, 87, 86) 1px 1px 1px 1px;
+}
+#form button{
+    background-color: black;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(4, 254, 154);
+    /* border: .3px solid rgb(103, 159, 73); */
+    padding: 5px 20px;
+    border-radius: 5px;
+    cursor:pointer;
+    box-shadow: rgb(93, 87, 86) 1px 1px 1px 1px;
+}
+#form button:hover{
+    background-color: rgb(0, 255, 153);
+    color: black;
+    box-shadow: rgb(136, 102, 139) 1px 1px 1px 1px;
+} 
