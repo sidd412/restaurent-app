@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/restaurent-app/static/css/main.4529ce09.css",
+    "main.js": "/restaurent-app/static/js/main.f2354b06.js",
+    "static/media/fa-solid-900.ttf": "/restaurent-app/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/restaurent-app/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/restaurent-app/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/bg9.webp": "/restaurent-app/static/media/bg9.befe141ae3c41784fc82.webp",
+    "static/media/bg8.webp": "/restaurent-app/static/media/bg8.ef156a99500341b1faff.webp",
+    "static/media/fa-brands-400.woff2": "/restaurent-app/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/bg7.webp": "/restaurent-app/static/media/bg7.478581588cdd5c26bb2e.webp",
+    "static/media/fa-regular-400.ttf": "/restaurent-app/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/restaurent-app/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/restaurent-app/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/restaurent-app/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/restaurent-app/index.html",
+    "main.4529ce09.css.map": "/restaurent-app/static/css/main.4529ce09.css.map",
+    "main.f2354b06.js.map": "/restaurent-app/static/js/main.f2354b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4529ce09.css",
+    "static/js/main.f2354b06.js"
+  ]
+}
